@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1550580510, 
-      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190219-1249.zip", 
-      "id": "4753ea8e2eb45bbd92554279dc6c48ce", 
+      "datetime": 1550838244, 
+      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190222-1224.zip", 
+      "id": "e5ffe636a240b977fbc3d6238bd725ee", 
       "romtype": "OFFICIAL",
-      "size": 598257015, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190219-1249.zip", 
+      "size": 597068914, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190222-1224.zip", 
       "version": "v3.0",
 	    "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Xiaomi Parts, Advanced Settings, Dirac Support Added ",
+      "changelog_misc" : "Added charging vibration settings",
+      "changelog_device" : "Selinux is Enforcing Now, Fixed Issues with night Mode,  Fixed Fc with Developer Settings(some languages which had issues),Fix DotOS logo not visible on statusbar,Removed Advanced Controller ",
       "changelog_settings" : "New Fresh UI",
       "changelog_securitypatch" : "February 05 2019"
     }
