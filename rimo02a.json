@@ -1,18 +1,18 @@
 {
-  "response": [
+  "response":[
      {
-      "datetime": 1550573869, 
-      "filename": "dotOS-P-v3.0-rimo02a-OFFICIAL-20190218-1450.zip", 
-      "id": "d45648caa4b2319a70ed548b7e116b31", 
-      "romtype": "OFFICIAL",
-      "size": 535024950, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/rimo02a/dotOS-P-v3.0-rimo02a-OFFICIAL-20190218-1450.zip", 
-      "version": "v3.0",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Fixes",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "February 05 2019"
-    }
+        "datetime":1551003205,
+        "filename":"dotOS-P-v3.0-rimo02a-OFFICIAL-20190224-1013.zip",
+        "id":"e2c2241447d6bdcb919d0c43e84fe21d",
+        "romtype":"OFFICIAL",
+        "size":537248736,
+        "url":"https://master.dl.sourceforge.net/project/dotos-downloads/dotp/rimo02a/dotOS-P-v3.0-rimo02a-OFFICIAL-20190224-1013.zip",
+        "version":"v3.0",
+        "changelog_system":"Android 9.0 Release",
+        "changelog_misc":"Brand New design",
+        "changelog_device":"Added dirac support , added doze",
+        "changelog_settings":"New Fresh UI",
+        "changelog_securitypatch":"February 05 2019"
+     }
   ]
 }
