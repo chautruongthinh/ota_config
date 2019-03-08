@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1550797308,
-      "filename": "dotOS-P-v3.0-land-OFFICIAL-2019022-0102.zip",  
-      "id": "5763b8733434fcc8745bb40fbb963d23", 
+      "datetime": 1552010966,
+      "filename": "dotOS-P-v3.0-land-OFFICIAL-20190308-0210.zip",  
+      "id": "0a942110147f93f21e89355143d4edf5", 
       "romtype": "OFFICIAL",
-      "size": 569602144, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/land/dotOS-P-v3.0-land-OFFICIAL-20190222-0102.zip", 
+      "size": 571922700, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/land/dotOS-P-v3.0-land-OFFICIAL-20190308-0210.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Brand New design",
-      "changelog_device" : "Set zram to 1GB, Added Volte Icon, Update SDM Blobs", 
+      "changelog_device" : "Fixed Option Developer FC on some language, Adjustment Brightness", 
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "February 05 2019"
+      "changelog_securitypatch" : "March 05 2019"
     }
   ]
 }
