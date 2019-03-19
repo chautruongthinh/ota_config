@@ -1,18 +1,19 @@
 {
   "response": [
      {
-      "datetime": 1551341058  
-      "filename": "dotOS-P-v3.0-z2_plus-OFFICIAL-20190228-0805.zip", 
-      "id": "cba038f9a523b7e5225792f234a1b21d", 
+      "datetime": 1552930251,
+      "filename": "dotOS-P-v3.0-z2_plus-OFFICIAL-20190318-1732.zip",
+
+      "id": "430fd616015fdea381b866259ed0e9bf", 
       "romtype": "OFFICIAL",
-      "size": 569197442, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/z2_plus/dotOS-P-v3.0-z2_plus-OFFICIAL-20190228-0805.zip", 
+      "size": 569455723, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/z2_plus/dotOS-P-v3.0-z2_plus-OFFICIAL-20190318-1732.zip",
       "version": "v3.0",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Fixes",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "February 05 2019"
+      "changelog_system": "r34 merged",
+      "changelog_misc" : "network traffic indicator",
+      "changelog_device" : "encryption blobs from daisy,manual network selection fix,Restore vulkan blobs to marlin",
+      "changelog_settings" : "update",
+      "changelog_securitypatch" : "March 05 2019"
     }
   ]
 }
