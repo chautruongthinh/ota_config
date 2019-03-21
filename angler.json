@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1550607508, 
-      "filename": "dotOS-P-v3.0-angler-OFFICIAL-20190219-2020.zip", 
-      "id": "eb55c44da21a7a454a6ebb61485beb0d", 
+      "datetime": 1553167028, 
+      "filename": "dotOS-P-v3.0-angler-OFFICIAL-20190321-1118.zip", 
+      "id": "a8619a735c9ebdbbc3352df10366b3cf", 
       "romtype": "OFFICIAL",
-      "size": 566838619, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/angler/dotOS-P-v3.0-angler-OFFICIAL-20190219-2020.zip", 
+      "size": 566083145, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/angler/dotOS-P-v3.0-angler-OFFICIAL-20190321-1118.zip", 
       "version": "v3.0",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Fixes",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "February 05 2019"
+      "changelog_system": "",
+      "changelog_misc" : "",
+      "changelog_device" : "IMSI and 5G Hotspot fixes",
+      "changelog_settings" : "",
+      "changelog_securitypatch" : "March 05 2019"
     }
   ]
 }
