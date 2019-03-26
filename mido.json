@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1550838244, 
-      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190222-1224.zip", 
-      "id": "e5ffe636a240b977fbc3d6238bd725ee", 
+      "datetime": 1553618500, 
+      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190326-1642.zip", 
+      "id": "5833552b9107ab9927635f525ab72687", 
       "romtype": "OFFICIAL",
-      "size": 597068914, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190222-1224.zip", 
+      "size": 597181700, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190326-1642.zip", 
       "version": "v3.0",
 	    "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Added charging vibration settings",
-      "changelog_device" : "Selinux is Enforcing Now, Fixed Issues with night Mode,  Fixed Fc with Developer Settings(some languages which had issues),Fix DotOS logo not visible on statusbar,Removed Advanced Controller ",
+      "changelog_misc" : "Bug fixes",
+      "changelog_device" : "Selinux is Enforcing Now, Always on display quick tile added,  switch to enable Always on display while charging,Screen Mirroring is working fine ",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "February 05 2019"
+      "changelog_securitypatch" : "March 05 2019"
     }
   ]
 }
