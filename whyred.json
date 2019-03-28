@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1552270884, 
-      "filename": "dotOS-P-v3.0-whyred-OFFICIAL-20190311-0222.zip", 
-      "id": "3ab468b2a3a2eebd767cec1885124f2d", 
+      "datetime": 1553777046, 
+      "filename": "dotOS-P-v3.0-whyred-OFFICIAL-20190328-1244.zip", 
+      "id": "4d1acd20b506ef18bc4cb3975fd85289", 
       "romtype": "OFFICIAL",
-      "size": 733491472, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/whyred/dotOS-P-v3.0-whyred-OFFICIAL-20190311-0222.zip", 
+      "size": 733204564, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/whyred/dotOS-P-v3.0-whyred-OFFICIAL-20190328-1244.zip", 
       "version": "v3.0",
       "changelog_system": "",
       "changelog_misc" : "",
-      "changelog_device" : "Derp v5.0 changes\n- Kernel Upstreamed to 4.4.176\n- Add back perf profiles into proprietary files\n- Cleanup usb shell script",
+      "changelog_device" : "Derp v5.1 changes\n- Kernel Upstreamed to 4.4.177\n- Enable Wi-Fi MAC randomization",
       "changelog_settings" : "",
       "changelog_securitypatch" : "March 05 2019"
     }
