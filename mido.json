@@ -1,17 +1,17 @@
 {
   "response": [
      {
-      "datetime": 1553618500, 
-      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190326-1642.zip", 
-      "id": "5833552b9107ab9927635f525ab72687", 
+      "datetime": 1553763719, 
+      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
+      "id": "e01c5e9d315e4afc22f64c8e27d00dd2", 
       "romtype": "OFFICIAL",
-      "size": 597181700, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190326-1642.zip", 
+      "size": 596623448, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
       "version": "v3.0",
 	    "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Bug fixes",
-      "changelog_device" : "Selinux is Enforcing Now, Always on display quick tile added,  switch to enable Always on display while charging,Screen Mirroring is working fine ",
-      "changelog_settings" : "New Fresh UI",
+      "changelog_device" : "Added HW Customisations\n- Fixed lockscreen statusbar clock overlaping\n- Added Invert Navbar Feature ",
+      "changelog_settings" : "",
       "changelog_securitypatch" : "March 05 2019"
     }
   ]
