@@ -1,0 +1,18 @@
+{
+  "response": [
+     {
+      "datetime": 1553879840, 
+      "filename": "dotOS-P-v3.0-platina-OFFICIAL-20190316-0011.zip", 
+      "id": "209d49d8348d907edf5fe5f4e3c2a72f", 
+      "romtype": "OFFICIAL",
+      "size": 713168789, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/platina/dotOS-P-v3.0-platina-OFFICIAL-20190316-0011.zip", 
+      "version": "v3.0",
+      "changelog_system": "Android 9.0 Release",
+      "changelog_misc" : "Brand New design",
+      "changelog_device" : "Fixes",
+      "changelog_settings" : "New Fresh UI",
+      "changelog_securitypatch" : "March 05 2019"
+    }
+  ]
+}
