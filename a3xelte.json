@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1553625039,
-      "filename": "dotOS-P-v3.0-a3xelte-OFFICIAL-20190326-1831.zip",
-      "id": "f465714939cfebcf6ea3772b700e28ac",
+      "datetime": 1553870620,
+      "filename": "dotOS-P-v3.0-a3xelte-OFFICIAL-20190329-1444.zip",
+      "id": "4835e4e7e12bbbdf93120159dfbc6aed",
       "romtype": "OFFICIAL",
-      "size": 393393117,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.0-a3xelte-OFFICIAL-20190326-1831.zip",
+      "size": 393302265,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.0-a3xelte-OFFICIAL-20190329-1444.zip",
       "version": "v3.0",
       "changelog_system": "",
       "changelog_misc" : "",
-      "changelog_device" : "Initial official build",
+      "changelog_device" : "SELinux fixes, Fixed touchkeys being on all the time resulting in a better battery life",
       "changelog_settings" : "",
       "changelog_securitypatch" : "March 05 2019"
     }
