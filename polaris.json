@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1552625537, 
-      "filename": "dotOS-P-v3.0-polaris-OFFICIAL-20190315-0338.zip", 
-      "id": "d96a9ead19effdff61129d0f7cc04bc2", 
+      "datetime": 1553838218, 
+      "filename": "dotOS-P-v3.0-polaris-OFFICIAL-20190329-0445.zip", 
+      "id": "e709bbea87ffa9eff75b9664ed3bf537", 
       "romtype": "OFFICIAL",
-      "size": 527044803, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/polaris/dotOS-P-v3.0-polaris-OFFICIAL-20190315-0338.zip", 
+      "size": 526970264, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/polaris/dotOS-P-v3.0-polaris-OFFICIAL-20190329-0445.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Added charging vibration settings",
-      "changelog_device" : "Switch to NfcNci and NFC 1.1,Change some display config,fix Networktraffic,fix neo theme,DotOS logo in the status bar,more fixes",
+      "changelog_device" : "Add CustomDoze,some fix",
       "changelog_settings" : "New Fresh UI",
       "changelog_securitypatch" : "March 05 2019"
     }
