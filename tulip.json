@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1553646735,
-      "filename": "dotOS-P-v3.0-tulip-OFFICIAL-20190327-0032.zip",
-      "id": "34e6c74d5a25830eedbf02feb3dfb070c91c17bf",
+      "datetime": 1554021597,
+      "filename": "dotOS-P-v3.0-tulip-OFFICIAL-20190331-0841.zip",
+      "id": "090756f713714f8904e565e2e5dd1fb2a1e47e8a",
       "romtype": "OFFICIAL",
-      "size": 685087695,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/tulip/dotOS-P-v3.0-tulip-OFFICIAL-20190327-0032.zip",
+      "size": 685194868,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/tulip/dotOS-P-v3.0-tulip-OFFICIAL-20190331-0841.zip",
       "version": "v3.0",
       "changelog_system": "",
       "changelog_misc" : "",
-      "changelog_device" : "Fix incall volume\n- Cleanup usb shell script\n- Update qti configs from caf\n- Enable Wi-Fi MAC randomization\n- Fix manual network selection",
+      "changelog_device" : "import additional power drivers from xootd\n-  rebirthx gov update\n- add bad USER_DS test\n- Enable workaround for old MCC/MNC format" ,
       "changelog_settings" : "",
       "changelog_securitypatch" : "March 05 2019"
     }
