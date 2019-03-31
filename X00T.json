@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1552216804, 
-      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190310-1123.zip", 
-      "id": "a89e1f83cbee337e456583f46e6b2d05", 
+      "datetime": 1554027327, 
+      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190331-1018.zip", 
+      "id": "a1a8b208a17e7722d295348b73458170", 
       "romtype": "OFFICIAL",
-      "size": 690247386, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190310-1123.zip", 
+      "size": 701763997, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190331-1018.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Brand New design",
-      "changelog_device" : "Merged March Security Patches, OTG support fixed, Added NXP audio driver, Merged KUD kernel with Linux 4.4.176, Merged dirac with NXP, Screen and Sound Recorder App Added, Fixed Fc with Developer Settings(some languages which had issues), Update SDM Blobs, Update WFD Blobs from Asus X01BD, Fix Suspressed Earphone Audio",
+      "changelog_device" : "Add AmbientDisplay tile, USB OTG fixed, fix statusbar clock overlapping after reboot, Add AmbientDisplay tile, Merged Darkonah kernel with Linux 4.4.176, show AOD on charge setting, Updated vendor security patch, Switched to new pie blobs, Fixed USB Tethering",
       "changelog_settings" : "New Fresh UI",
       "changelog_securitypatch" : "March 05 2019"
     }
