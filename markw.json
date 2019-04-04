@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1553692165,
-      "filename": "dotOS-P-v3.0-markw-OFFICIAL-20190327-1309.zip",
-      "id": "dfce8fdf4d0ef5d4ba3b51c5190363d9",
+      "datetime": 1554393535,
+      "filename": "dotOS-P-v3.0-markw-OFFICIAL-20190404-1559.zip",
+      "id": "563defece28d123ed8eb940d855bb098",
       "romtype": "OFFICIAL",
-      "size": 601800465,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/markw/dotOS-P-v3.0-markw-OFFICIAL-20190327-1309.zip",
+      "size": 621115423,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/markw/dotOS-P-v3.0-markw-OFFICIAL-20190404-1559.zip",
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Brand New design",
-      "changelog_device" : "Revert to prev blobs and Night Light Fix",
+      "changelog_device" : "Only Clean Flash!!!\n- New device sources from @SonicBSV\n- Kernel update to Nosgoth V6\n- Lock Screen bug fixed\n- Wi-Fi Display (Miracast) now should work\n- Better colors for Night display\n- Radio was removed\n- Russian and Ukrainian translations",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
