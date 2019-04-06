@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1552584996,
-      "filename": "dotOS-P-v3.0-X01BD-OFFICIAL-20190314-1736.zip", 
-      "id": "8685c16b160f84a5a8212f3a4e1c7d36", 
+      "datetime": 1554509069,
+      "filename": "dotOS-P-v3.0-X01BD-OFFICIAL-20190406-0008.zip", 
+      "id": "a6a96b414062829f1786ea03cf2b697d", 
       "romtype": "OFFICIAL",
-      "size": 626096811, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X01BD/dotOS-P-v3.0-X01BD-OFFICIAL-20190314-1736.zip", 
+      "size": 661770885, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X01BD/dotOS-P-v3.0-X01BD-OFFICIAL-20190406-0008.zip", 
       "version": "v3.0",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Merged March Security Patches, Initial Official Build",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_system": "",
+      "changelog_misc" : "",
+      "changelog_device" : "- Merged April Security Patch\n- Improve Statusbar Padding\n- Enable Dual WIFI Interface\n- Enable InCall Music\n- Enable Doze Features\n- Misc Stuff",
+      "changelog_settings" : "",
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
