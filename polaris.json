@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1553838218, 
-      "filename": "dotOS-P-v3.0-polaris-OFFICIAL-20190329-0445.zip", 
-      "id": "e709bbea87ffa9eff75b9664ed3bf537", 
+      "datetime": 1554713387, 
+      "filename": "dotOS-P-v3.0-polaris-OFFICIAL-20190408-0800.zip", 
+      "id": "6bc53711016a47c90e0d04f16f091a1b", 
       "romtype": "OFFICIAL",
-      "size": 526970264, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/polaris/dotOS-P-v3.0-polaris-OFFICIAL-20190329-0445.zip", 
+      "size": 526879759, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/polaris/dotOS-P-v3.0-polaris-OFFICIAL-20190408-0800.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Added charging vibration settings",
-      "changelog_device" : "Add CustomDoze,some fix",
+      "changelog_device" : "android r35,font service",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
