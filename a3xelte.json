@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1553870620,
-      "filename": "dotOS-P-v3.0-a3xelte-OFFICIAL-20190329-1444.zip",
-      "id": "4835e4e7e12bbbdf93120159dfbc6aed",
+      "datetime": 1554903529,
+      "filename": "dotOS-P-v3.0-a3xelte-OFFICIAL-20190410-1339.zip",
+      "id": "bbb1084cf38422c3b8ba8a7fa4e58dbb",
       "romtype": "OFFICIAL",
-      "size": 393302265,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.0-a3xelte-OFFICIAL-20190329-1444.zip",
+      "size": 393238585,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.0-a3xelte-OFFICIAL-20190410-1339.zip",
       "version": "v3.0",
-      "changelog_system": "",
+      "changelog_system": "- Fix blocked contacts crash",
       "changelog_misc" : "",
-      "changelog_device" : "SELinux fixes, Fixed touchkeys being on all the time resulting in a better battery life",
+      "changelog_device" : "- Hotspot fixed\n- USB Tethering fixed\n- Battery improvement due cpufreq kernel upstreams",
       "changelog_settings" : "",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
