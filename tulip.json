@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1554021597,
-      "filename": "dotOS-P-v3.0-tulip-OFFICIAL-20190331-0841.zip",
-      "id": "090756f713714f8904e565e2e5dd1fb2a1e47e8a",
+      "datetime": 1555012527,
+      "filename": "dotOS-P-v3.0-tulip-OFFICIAL-20190411-1956.zip",
+      "id": "774e9d8e050930358c8a04df24ff5419",
       "romtype": "OFFICIAL",
-      "size": 685194868,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/tulip/dotOS-P-v3.0-tulip-OFFICIAL-20190331-0841.zip",
+      "size": 672021636,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/tulip/dotOS-P-v3.0-tulip-OFFICIAL-20190411-1956.zip",
       "version": "v3.0",
       "changelog_system": "",
       "changelog_misc" : "",
-      "changelog_device" : "import additional power drivers from xootd\n-  rebirthx gov update\n- add bad USER_DS test\n- Enable workaround for old MCC/MNC format" ,
+      "changelog_device" : "Selinux Enforced\n- Added light hal fix by sunnyraj\n- Enable sdfat configs\n- Enable CONFIG_CRYPTO_SHA512" ,
       "changelog_settings" : "",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
