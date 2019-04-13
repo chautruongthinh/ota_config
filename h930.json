@@ -1,19 +1,19 @@
 {
   "response": [
      {
-      "datetime": 1553759355,
-      "filename": "dotOS-P-v3.0-h930-OFFICIAL-20190328-0749.zip",
-      "id": "b4d5b29e944b70bec7d717cf3d395a91",
+      "datetime": 1555148256,
+      "filename": "dotOS-P-v3.0-h930-OFFICIAL-20190413-0938.zip",
+      "id": "fac6a55a515ea0ea8848ca46643c956f",
       "romtype": "OFFICIAL",
-      "size": 635767063,
+      "size": 641309017,
       "url": 
-"https://master.dl.sourceforge.net/project/dotos-downloads/h930/dotOS-P-v3.0-h930-OFFICIAL-20190328-0749.zip",
+"https://master.dl.sourceforge.net/project/dotos-downloads/dotp/h930/dotOS-P-v3.0-h930-OFFICIAL-20190413-0938.zip",
       "version": "v3.0",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Initial Build",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_system": "",
+      "changelog_misc" : "",
+      "changelog_device" : "Updated to 21w firmware ",
+      "changelog_settings" : "added hifi dac",
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
