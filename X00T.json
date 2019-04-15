@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1554027327, 
-      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190331-1018.zip", 
-      "id": "a1a8b208a17e7722d295348b73458170", 
+      "datetime": 1555357252, 
+      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190415-1943.zip", 
+      "id": "eb9827dad818e6d71dcf216790808947", 
       "romtype": "OFFICIAL",
-      "size": 701763997, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190331-1018.zip", 
+      "size": 714773385, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190415-1943.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Brand New design",
-      "changelog_device" : "Add AmbientDisplay tile, USB OTG fixed, fix statusbar clock overlapping after reboot, Add AmbientDisplay tile, Merged Darkonah kernel with Linux 4.4.176, show AOD on charge setting, Updated vendor security patch, Switched to new pie blobs, Fixed USB Tethering",
+      "changelog_device" : "Font Manager Added, Merged dirac with NXP, ZenParts Added, Fixed USB Tethering, Merged KUD's kernel with Linux 4.4.178, Rebased to Kud's tree with many updates to Stock Pie Beta",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
