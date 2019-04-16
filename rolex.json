@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1554036482,
-      "filename": "dotOS-P-v3.0-rolex-OFFICIAL-20190331-1248.zip",
-      "id": "18342658903f14b389b0e7671dbad33e",
+      "datetime": 1555432122,
+      "filename": "dotOS-P-v3.0-rolex-OFFICIAL-20190416-1629.zip",
+      "id": "0b1c33abe71e947d08db93e9c82dfefd",
       "romtype": "OFFICIAL",
-      "size": 619779697,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/rolex/dotOS-P-v3.0-rolex-OFFICIAL-20190331-1248.zip",
+      "size": 575699720,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/rolex/dotOS-P-v3.0-rolex-OFFICIAL-20190416-1629.zip",
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Fixed spotify crashing, ambient display fixed, improved graphics, improved performance and more",
-      "changelog_device" : "Fixed spotify crashing, ambient display fixed, improved graphics, and more",
+      "changelog_misc" : "Enforcing, Green camera issue fixed(whatsapp), Improved graphics, Font manager added, Minor bug fixes",
+      "changelog_device" : "Enforcing, Green camera issue fixed(whatsapp), Improved graphics, Font manager added, Minor bug fixes",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
