@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1555357252, 
-      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190415-1943.zip", 
-      "id": "eb9827dad818e6d71dcf216790808947", 
+      "datetime": 1555486363, 
+      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190417-0735.zip", 
+      "id": "78726af814dd896be5734bec54b64992", 
       "romtype": "OFFICIAL",
-      "size": 714773385, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190415-1943.zip", 
+      "size": 708502509, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190417-0735.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Brand New design",
-      "changelog_device" : "Font Manager Added, Merged dirac with NXP, ZenParts Added, Fixed USB Tethering, Merged KUD's kernel with Linux 4.4.178, Rebased to Kud's tree with many updates to Stock Pie Beta",
+      "changelog_device" : "Clean Flash Recommended, Gcam Fixed",
       "changelog_settings" : "New Fresh UI",
       "changelog_securitypatch" : "April 05 2019"
     }
