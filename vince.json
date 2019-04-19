@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1550573620, 
-      "filename": "dotOS-P-v3.0-vince-Official-20190215-1800.zip", 
-      "id": "328ee51bf682809424b134066a3361c2", 
+      "datetime": 1555616358, 
+      "filename": "dotOS-P-v3.0-vince-OFFICIAL-20190418-1940.zip", 
+      "id": "905199f30694816757736fad5bfe9d77", 
       "romtype": "OFFICIAL",
-      "size": 634653962, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/vince/dotOS-P-v3.0-vince-Official-20190215-1800.zip", 
+      "size": 647988752, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/vince/dotOS-P-v3.0-vince-OFFICIAL-20190418-1940.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Brand New design",
-      "changelog_device" : "Fixes",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "February 05 2019"
+      "changelog_device" : "- remove advanced control \n - update DA to latest",
+      "changelog_settings" : "- add digitial wellbeing \n - add font mananger",
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
