@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1554644568, 
-      "filename": "dotOS-P-v3.0-sanders-OFFICIAL-20190407-1342.zip", 
-      "id": "15a0dbe404d4af46d0746609ae69fa64", 
+      "datetime": 1556015491, 
+      "filename": "dotOS-P-v3.0-sanders-OFFICIAL-20190423-1032.zip", 
+      "id": "adbe6a48f339a44f9bba51fd34ca97e1", 
       "romtype": "OFFICIAL",
-      "size": 575100000, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/sanders/dotOS-P-v3.0-sanders-OFFICIAL-20190407-1342.zip", 
+      "size": 667900000, 
+      "url": "https://nchc.dl.sourceforge.net/project/dotos-downloads/dotp/sanders/dotOS-P-v3.0-sanders-OFFICIAL-20190423-1032.zip", 
       "version": "v3.0",
-      "changelog_system": "April Patch \n -Source side Changes ",
+      "changelog_system": "Source side Changes ",
       "changelog_misc" : "Compiled Using Clang 9.0.2",
-      "changelog_device" : "Added Spectrum Support \n - Kcal Colour Calibration Support \n Enabled In-call music \n Find more yourself",
+      "changelog_device" : " New Mayhem Doomsday kernel \n Added stable Gcam with all features working \n stable volte \n Reduced min brightness to 1 \n Added new Kcal presents and greyscale \n Find more yourself",
       "changelog_settings" : "",
       "changelog_securitypatch" : "April 05 2019"
     }
