@@ -1,0 +1,19 @@
+{
+  "response": [
+     {
+      "datetime": 1556180409, 
+      "filename": "dotOS-P-v3.0-zenfone3-OFFICIAL-20190425-0820.zip", 
+      "id": "c4ddf875d7db2484753a6a973d1bee4b", 
+      "romtype": "OFFICIAL",
+      "size": 619673176, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/zenfone3/dotOS-P-v3.0-zenfone3-OFFICIAL-20190425-0820.zip", 
+      "version": "v3.0",
+      "changelog_system": "Android 9.0 Release",
+      "changelog_misc" : "Brand New design",
+      "changelog_device" : "- Kill QC location provider\n- add PixelMaster as default in place of Snap\n- Resolve denials of Pixelmaster app\n- Improve reception\n- Convert lights HAL to native binderized HAL\n- gps Updates from LA.UM.7.6.2.r1-07300-89xx.0\n- Misc Stuff",
+      "changelog_settings" : "New Fresh UI",
+      "changelog_securitypatch" : "April 05 2019"
+    }
+  ]
+}
+
