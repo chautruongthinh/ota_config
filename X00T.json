@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1555486363, 
-      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190417-0735.zip", 
-      "id": "78726af814dd896be5734bec54b64992", 
+      "datetime": 1556284777, 
+      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190426-1320.zip", 
+      "id": "a609eacdd19ded286f7b64bcc53319eb", 
       "romtype": "OFFICIAL",
-      "size": 708502509, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190417-0735.zip", 
+      "size": 639438691, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190426-1320.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Clean Flash Recommended, Gcam Fixed",
+      "changelog_misc" : "Build Made With Clang 9.0.2",
+      "changelog_device" : "Fix LS clock font style, Prebuilt Gcam Removed, Dot default camera added, Charging Speed Improved, Better audio quality, Merged HALs with latest CAF tag",
       "changelog_settings" : "New Fresh UI",
       "changelog_securitypatch" : "April 05 2019"
     }
