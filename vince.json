@@ -1,17 +1,17 @@
 {
   "response": [
      {
-      "datetime": 1555616358, 
-      "filename": "dotOS-P-v3.0-vince-OFFICIAL-20190418-1940.zip", 
-      "id": "905199f30694816757736fad5bfe9d77", 
+      "datetime": 1556303555, 
+      "filename": "dotOS-P-v3.0-vince-OFFICIAL-20190426-1837.zip", 
+      "id": "dca536e676b69e486d0afe24352e91e3 ", 
       "romtype": "OFFICIAL",
-      "size": 647988752, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/vince/dotOS-P-v3.0-vince-OFFICIAL-20190418-1940.zip", 
+      "size": 647884560, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/vince/dotOS-P-v3.0-vince-OFFICIAL-20190426-1837.zip", 
       "version": "v3.0",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "- remove advanced control \n - update DA to latest",
-      "changelog_settings" : "- add digitial wellbeing \n - add font mananger",
+      "changelog_system": "",
+      "changelog_misc" : "",
+      "changelog_device" : "- fix fingerprint acting as a button \n - update DA kernel to latest",
+      "changelog_settings" : "",
       "changelog_securitypatch" : "April 05 2019"
     }
   ]
