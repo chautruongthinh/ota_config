@@ -1,18 +1,18 @@
 {
   "response": [
-     {
-      "datetime": 1556381549, 
-      "filename": "dotOS-P-v3.0-vince-OFFICIAL-20190426-1837.zip", 
-      "id": "34b7bddb8123553402a35fd2b83a2896", 
+    {
+      "datetime": 1556381549,
+      "filename": "dotOS-P-v3.0-vince-OFFICIAL-20190427-1617.zip",
+      "id": "34b7bddb8123553402a35fd2b83a2896",
       "romtype": "OFFICIAL",
-      "size": 652857327, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/vince/dotOS-P-v3.0-vince-OFFICIAL-20190427-1617.zip", 
+      "size": 652857327,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/vince/dotOS-P-v3.0-vince-OFFICIAL-20190427-1617.zip",
       "version": "v3.0",
       "changelog_system": "",
-      "changelog_misc" : "",
-      "changelog_device" : "fixed color inversion\nfixed color correction\nfixed nightlight\nfixed high contrast text",
-      "changelog_settings" : "",
-      "changelog_securitypatch" : ""
+      "changelog_misc": "",
+      "changelog_device": "fixed color inversion\nfixed color correction\nfixed nightlight\nfixed high contrast text",
+      "changelog_settings": "",
+      "changelog_securitypatch": ""
     }
   ]
 }
