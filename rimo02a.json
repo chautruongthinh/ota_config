@@ -1,16 +1,16 @@
 {
   "response":[
      {
-        "datetime":1555763948,
-        "filename":"dotOS-P-v3.0-rimo02a-OFFICIAL-20190420-1239.zip",
-        "id":"7691d0ff15a884d133de0b6912ad4543",
+        "datetime":1556366719,
+        "filename":"dotOS-P-v3.0-rimo02a-OFFICIAL-20190427-1205.zip",
+        "id":"f95ee5a58583e8c037825e3be2fb5b80",
         "romtype":"OFFICIAL",
-        "size":554526294,
-        "url":"https://master.dl.sourceforge.net/project/rimo02a/dotOS-P-v3.0-rimo02a-OFFICIAL-20190420-1239.zip",
+        "size":554582300,
+        "url":"https://liquidtelecom.dl.sourceforge.net/project/dotos-downloads/dotp/rimo02a/dotOS-P-v3.0-rimo02a-OFFICIAL-20190427-1205.zip",
         "version":"v3.0",
         "changelog_system":"Android 9.0 Release",
-        "changelog_misc":"Added charging vibration settings",
-        "changelog_device":"Testingv1.0",
+        "changelog_misc":"Added charging vibration settings, Added Font Manager",
+        "changelog_device":"Fixed manual network selection, set camera HAL module version properly, light sensor fixups, Some under the hood changes",
         "changelog_settings":"New Fresh UI",
         "changelog_securitypatch":"April 05 2019"
      }
