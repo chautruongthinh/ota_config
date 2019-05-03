@@ -1,16 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1555660675,
-      "filename": "dotOS-P-v3.0-prague-OFFICIAL-20190419-0757.zip",
-      "id": "be5be4023e48272960afa472009b30c5",
+      "datetime": 1556831071,
+      "filename": "dotOS-P-v3.0-prague-OFFICIAL-20190502-2104.zip",
+      "id": "6c08fbd02531f9b40ae54ce252e735d6",
       "romtype": "OFFICIAL",
-      "size": 542978386,
-      "url": "https://downloads.sourceforge.net/project/dotos-downloads/dotp/prague/dotOS-P-v3.0-prague-OFFICIAL-20190419-0757.zip",
+      "size": 542945715,
+      "url": "https://downloads.sourceforge.net/project/dotos-downloads/dotp/prague/dotOS-P-v3.0-prague-OFFICIAL-20190502-2104.zip",
       "version": "v3.0",
       "changelog_system": "",
       "changelog_misc" : "",
-      "changelog_device" : "Fixed NFC, Fixed Hotspot and thetering, Added Fp Gestures, removed UI lags",
+      "changelog_device" : "Fixed BT Low Energy(thanks to @Hackintosh5), Added swipe left/right FP gestures,Fixed SD card errors",
       "changelog_settings" : "",
       "changelog_securitypatch" : "April 05 2019"
     }
