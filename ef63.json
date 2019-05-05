@@ -1,18 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1550482296, 
-      "filename": "dotOS-P-v3.0-ef63-OFFICIAL-20190218-0931.zip", 
-      "id": "4ae6c59bc0631df98d5399da9b019e5c", 
+      "datetime": 1556974194, 
+      "filename": "dotOS-P-v3.0-ef63-OFFICIAL-20190504-1250.zip", 
+      "id": "d28b15ae5015833e26da467b4a5ced90", 
       "romtype": "OFFICIAL",
-      "size": 396169174, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/ef63/dotOS-P-v3.0-ef63-OFFICIAL-20190218-0931.zip", 
+      "size": 408562947, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/ef63/dotOS-P-v3.0-ef63-OFFICIAL-20190504-1250.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Brand New design",
-      "changelog_device" : "Fixes",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "February 05 2019"
+      "changelog_device" : "Update some configs",
+      "changelog_securitypatch" : "April 05 2019"
     }
   ]
 }
