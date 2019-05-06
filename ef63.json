@@ -9,7 +9,9 @@
       "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/ef63/dotOS-P-v3.0-ef63-OFFICIAL-20190504-1250.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
+      "changelog_misc" : "",
       "changelog_device" : "Update some configs",
+      "changelog_settings" : "",
       "changelog_securitypatch" : "April 05 2019"
     }
   ]
