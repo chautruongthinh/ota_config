@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1555112924,
-      "filename": "dotOS-P-v3.0-potter-OFFICIAL-20190412-2350.zip", 
-      "id": "ae08bc7133c0df867023e6af6f5fbc63", 
+      "datetime": 1557889602,
+      "filename": "dotOS-P-v3.0-potter-OFFICIAL-20190515-0311.zip", 
+      "id": "593a451744b334b67ef6bf72ad1afe79", 
       "romtype": "OFFICIAL",
-      "size": 630685271, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/potter/dotOS-P-v3.0-potter-OFFICIAL-20190412-2350.zip", 
+      "size": 643033903, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/potter/dotOS-P-v3.0-potter-OFFICIAL-20190515-0311.zip", 
       "version": "v3.0",
       "changelog_system": "",
-      "changelog_misc" : "",
-      "changelog_device" : "Selinux ENFORCED",
+      "changelog_misc" : "Built with clang 9.0.3",
+      "changelog_device" : "Fixed MiFlare NFC feature, Force hal1 for WhatsApp and Instagram",
       "changelog_settings" : "",
-      "changelog_securitypatch" : "April 05 2019"
+      "changelog_securitypatch" : "May 05 2019"
     }
   ]
 }
