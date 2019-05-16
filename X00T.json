@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1556284777, 
-      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190426-1320.zip", 
-      "id": "a609eacdd19ded286f7b64bcc53319eb", 
+      "datetime": 1558021591, 
+      "filename": "dotOS-P-v3.0-X00T-OFFICIAL-20190516-1548.zip", 
+      "id": "77d5ea41d7a9c97b307737434dd0be86", 
       "romtype": "OFFICIAL",
-      "size": 639438691, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190426-1320.zip", 
+      "size": 639511991, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.0-X00T-OFFICIAL-20190516-1548.zip", 
       "version": "v3.0",
       "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Build Made With Clang 9.0.2",
-      "changelog_device" : "Fix LS clock font style, Prebuilt Gcam Removed, Dot default camera added, Charging Speed Improved, Better audio quality, Merged HALs with latest CAF tag",
+      "changelog_misc" : "Pie Firmware Required",
+      "changelog_device" : "Increase In-call Audio and Better audio quality, Updated many blobs from latest stock, Default Darkonah Kernel, Merged kernel with latest stable f2fs, Merged HALs with latest CAF tag",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "April 05 2019"
+      "changelog_securitypatch" : "May 05 2019"
     }
   ]
 }
