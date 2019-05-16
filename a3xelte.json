@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1554903529,
-      "filename": "dotOS-P-v3.0-a3xelte-OFFICIAL-20190410-1339.zip",
-      "id": "bbb1084cf38422c3b8ba8a7fa4e58dbb",
+      "datetime": 1558013416,
+      "filename": "dotOS-P-v3.0-a3xelte-OFFICIAL-20190516-1330.zip",
+      "id": "15490eeca00aa711cdcde42ceab84f04",
       "romtype": "OFFICIAL",
-      "size": 393238585,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.0-a3xelte-OFFICIAL-20190410-1339.zip",
+      "size": 406833767,
+      "url": "https://downloads.sourceforge.net/project/dotos-downloads/dotp/a3xelte/dotOS-P-v3.0-a3xelte-OFFICIAL-20190516-1330.zip",
       "version": "v3.0",
-      "changelog_system": "- Fix blocked contacts crash",
-      "changelog_misc" : "",
-      "changelog_device" : "- Hotspot fixed\n- USB Tethering fixed\n- Battery improvement due cpufreq kernel upstreams",
-      "changelog_settings" : "",
-      "changelog_securitypatch" : "April 05 2019"
+      "changelog_system": "- Added font manager\n- Added more fonts\n- Update prebuilt apps\n- Add missing APN configs for some carriers",
+      "changelog_misc": "",
+      "changelog_device": "- Add missing magnetometer config file\n- Update vendor security from 2018-07-30 to 2019-02-01\n- Improve NFC reliability\n- More SELinux fixes\n- Fixed issue that the device was not charging sometimes",
+      "changelog_settings": "",
+      "changelog_securitypatch": "May 05 2019"
     }
   ]
 }
