@@ -1,24 +1,24 @@
 {
     "response": [
        {
-        "datetime": 1559735313, 
-        "filename": "dotOS-P-v3.1-mido-NIGHTLY-20190605-1148.zip", 
-        "id": "59513a39b6332232d523bd563f5438c9", 
+        "datetime": 1561920883, 
+        "filename": "dotos-p-v3.1-mido-nightly-20190630-1854.zip", 
+        "id": "84eefd1d301c156f52f846ebd70506e2", 
         "romtype": "NIGHTLY",
-        "size": 599632477, 
-        "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.1-mido-NIGHTLY-20190605-1148.zip", 
+        "size": 598324966, 
+        "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotos-p-v3.1-mido-nightly-20190630-1854.zip", 
         "version": "v3.1",
         "changelog_system": "Brand new UI",
         "changelog_misc" : "Old bugs has been fixes",
         "changelog_device" : "New Changes",
         "changelog_settings" : "New UI",
         "changelog_securitypatch" : "June 01 2019",
-        "maintainer_name" : "Bobby the Tester",
+        "maintainer_name" : "Iacob Ionut",
         "maintainer_xda" : "https://google.ro",
         "maintainer_other" : "Write Quick Description",
         "maintainer_telegram" : "https://t.me/iacobionut",
         "maintainer_devices" : "mido",
-        "maintainer_img_url" : "https://i.imgur.com/JpIErSz.jpg"
+        "maintainer_img_url" : "https://i.imgur.com/I747OrD.jpg"
       }
     ]
   }
