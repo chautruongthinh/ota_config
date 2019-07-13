@@ -1,18 +1,24 @@
 {
-  "response":[
-     {
-        "datetime":1556366719,
-        "filename":"dotOS-P-v3.1-rimo02a-OFFICIAL-20190703-0546.zip ",
-        "id":"da63c4a9718f523249437084b1c0f459",
-        "romtype":"OFFICIAL",
-        "size":548964656,
-        "url":"https://liquidtelecom.dl.sourceforge.net/project/dotos-downloads/dotp/rimo02a/dotOS-P-v3.1-rimo02a-OFFICIAL-20190703-0546.zip",
-        "version":"v3.1",
+    "response": [
+       {
+        "datetime": 1556366719, 
+        "filename": "dotOS-P-v3.1-rimo02a-OFFICIAL-20190703-0546.zip", 
+        "id": "da63c4a9718f523249437084b1c0f459", 
+        "romtype": "OFFICIAL",
+        "size": 548964656, 
+        "url": "https://liquidtelecom.dl.sourceforge.net/project/dotos-downloads/dotp/rimo02a/dotOS-P-v3.1-rimo02a-OFFICIAL-20190703-0546.zip", 
+        "version": "v3.1",
         "changelog_system": "Brand new UI",
         "changelog_misc" : "Old bugs has been fixes",
-        "changelog_device":"Upstreamed kernel to 3.10.108",
+        "changelog_device" : "Upstreamed kernel to 3.10.108",
         "changelog_settings" : "New UI",
         "changelog_securitypatch" : "June 01 2019",
-     }
-  ]
-}
+        "maintainer_name" : "Shreehari Vaasishta",
+        "maintainer_xda" : "https://forum.xda-developers.com/member.php?u=8748632",
+        "maintainer_other" : "Smartron SRT phone",
+        "maintainer_telegram" : "https://t.me/cult_of_kosmos",
+        "maintainer_devices" : "rimo02a",
+        "maintainer_img_url" : "https://i.imgur.com/I747OrD.jpg"
+      }
+    ]
+  }
