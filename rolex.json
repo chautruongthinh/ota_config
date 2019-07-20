@@ -1,18 +1,24 @@
 {
-  "response": [
-     {
-      "datetime": 1558061327,
-      "filename": "dotOS-P-v3.0-rolex-OFFICIAL-20190517-0249.zip",
-      "id": "35324c0efca004166d69e371bc8f29d5",
-      "romtype": "OFFICIAL",
-      "size": 577099744,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/rolex/dotOS-P-v3.0-rolex-OFFICIAL-20190417-0249.zip",
-      "version": "v3.0",
-      "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Merged tag android-9.0.0_r37, merged kernel tag-3.18.140, Minor bug fixes",
-      "changelog_device" : "Merged tag android-9.0.0_r37, merged kernel tag-3.18.140, Minor bug fixes",
-      "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "May 05 2019"
-    }
-  ]
-}
+    "response": [
+       {
+        "datetime": 1562491669,
+        "filename": "dotOS-P-v3.1-rolex-OFFICIAL-20190707-0928.zip",
+        "id": "1e9ae1f80cee26588aaa86da18424f35",
+        "romtype": "OFFICIAL",
+        "size": 572489904,
+        "url": "https://liquidtelecom.dl.sourceforge.net/project/dotos-downloads/dotp/rimo02a/dotOS-P-v3.1-rolex-OFFICIAL-20190707-0928.zip",
+        "version": "v3.1",
+        "changelog_system": "Brand new UI",
+        "changelog_misc" : "Old bugs has been fixes",
+        "changelog_device" : "Added dirac support, added full ambient display suppot, bug fixes and improvement",
+        "changelog_settings" : "New UI",
+        "changelog_securitypatch" : "June 01 2019",
+        "maintainer_name" : "Manohar Singh",
+        "maintainer_xda" : "https://forum.xda-developers.com/member.php?u=9802095",
+        "maintainer_other" : "Rolex",
+        "maintainer_telegram" : "https://t.me/adi153",
+        "maintainer_devices" : "rolex",
+        "maintainer_img_url" : "https://imgur.com/gallery/pnhxDEg"
+      }
+    ]
+  }
