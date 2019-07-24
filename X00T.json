@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1562533496, 
-      "filename": "dotOS-P-v3.1-X00T-OFFICIAL-20190707-2105.zip", 
-      "id": "1bac9a6f1a9dfcfb2a0b15ec27f1a00e", 
+      "datetime": 1563906488,
+      "filename": "dotOS-P-v3.1-X00T-OFFICIAL-20190723-1828.zip",
+      "id": "4010bd8534819da65bfb4c829b5a9c1b",
       "romtype": "OFFICIAL",
-      "size": 680408634, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.1-X00T-OFFICIAL-20190707-2105.zip", 
+      "size": 661594841,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.1-X00T-OFFICIAL-20190723-1828.zip",
       "version": "v3.1",
       "changelog_system": "Android 9.0 Release",
       "changelog_misc" : "Pie Firmware Required",
-      "changelog_device" : "ZenfoneParts 2.0, DarkonahZ default kernel, Safetynet status and CTS profile:true , WhatsApp video call lag fixed, Stock SDM camera",
+      "changelog_device" : "Battery stats fix, DarkonahZ default kernel, New light Hal's, Back to Snap cam, NXP removed, Allow auto-brightness while in doze, Set screen off delay to 0, Set minimum brightness to 1",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "June 05 2019"
+      "changelog_securitypatch" : "July 05 2019"
     }
   ]
 }
