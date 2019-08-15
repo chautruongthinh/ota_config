@@ -1,18 +1,24 @@
 {
   "response": [
-     {
-      "datetime": 1553763719, 
-      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
-      "id": "e01c5e9d315e4afc22f64c8e27d00dd2", 
+    {
+      "datetime": 1565874672,
+      "filename": "dotOS-P-v3.1.1-mido-OFFICIAL-20190815-1311.zip",
+      "id": "79db382e71ea548be502861b33da05f6",
       "romtype": "OFFICIAL",
-      "size": 596623448, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
-      "version": "v3.0",
-	    "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Bug fixes",
-      "changelog_device" : "Added HW Customisations\n- Fixed lockscreen statusbar clock overlaping\n- Added Invert Navbar Feature ",
-      "changelog_settings" : "",
-      "changelog_securitypatch" : "March 05 2019"
+      "size": 623867063,
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.1.1-mido-OFFICIAL-20190815-1311.zip",
+      "version": "v3.1.1",
+      "changelog_system": "Android 9.0 Release",
+      "changelog_misc": "Bug fixes",
+      "changelog_device": "Some New Features and Bug Fixes",
+      "changelog_settings": "Redesigned UI",
+      "changelog_securitypatch": "August 01 2019",
+      "maintainer_name": "Iacob Ionut",
+      "maintainer_xda": "https://google.ro",
+      "maintainer_other": "Write Quick Description",
+      "maintainer_telegram": "https://t.me/iacobionut",
+      "maintainer_devices": "mido",
+      "maintainer_img_url": "https://i.imgur.com/I747OrD.jpg"
     }
   ]
 }
