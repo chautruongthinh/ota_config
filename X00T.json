@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1563906488,
-      "filename": "dotOS-P-v3.1-X00T-OFFICIAL-20190723-1828.zip",
-      "id": "4010bd8534819da65bfb4c829b5a9c1b",
+      "datetime": 1565982660,
+      "filename": "dotOS-P-v3.1.1-X00T-OFFICIAL-20190816-1911.zip",
+      "id": "f70860333eb0ed2ad1173dee117d3080",
       "romtype": "OFFICIAL",
-      "size": 661594841,
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.1-X00T-OFFICIAL-20190723-1828.zip",
-      "version": "v3.1",
+      "size": 643162610,
+      "url": "https://liquidtelecom.dl.sourceforge.net/project/dotos-downloads/dotp/X00T/dotOS-P-v3.1.1-X00T-OFFICIAL-20190816-1911.zip",
+      "version": "v3.1.1",
       "changelog_system": "Android 9.0 Release",
-      "changelog_misc" : "Pie Firmware Required",
-      "changelog_device" : "Battery stats fix, DarkonahZ default kernel, New light Hal's, Back to Snap cam, NXP removed, Allow auto-brightness while in doze, Set screen off delay to 0, Set minimum brightness to 1",
+      "changelog_misc" : "Firmware 056 Required",
+      "changelog_device" : "Bluetooth audio fix, Sound quality improvements, Google play protect certified, Back to AOSP apps And Quickstep launcher, Battery heating issue fixed, Fingerprint response fast",
       "changelog_settings" : "New Fresh UI",
-      "changelog_securitypatch" : "July 05 2019"
+      "changelog_securitypatch" : "August 01 2019"
     }
   ]
 }
