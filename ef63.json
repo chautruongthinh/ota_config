@@ -1,22 +1,22 @@
 {
   "response": [
      {
-      "datetime": 1562581978, 
-      "filename": "dotOS-P-v3.1-ef63-OFFICIAL-20190708-1033.zip", 
-      "id": "12b50c70e7fe6917d0e0d6b264504a10", 
+      "datetime": 1566233091, 
+      "filename": "dotOS-P-v3.1.1-ef63-OFFICIAL-20190819-1645.zip", 
+      "id": "f050177232917cd87f6cf6bdabc78dce", 
       "romtype": "OFFICIAL",
-      "size": 407091598, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/ef63/dotOS-P-v3.1-ef63-OFFICIAL-20190708-1033.zip", 
-      "version": "v3.1",
+      "size": 407877078, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/ef63/dotOS-P-v3.1.1-ef63-OFFICIAL-20190819-1645.zip", 
+      "version": "v3.1.1",
       "maintainer_name" : "Chau Truong Thinh",
       "maintainer_devices" : "VEGA IRON 2 (ef63)",
       "maintainer_telegram" : "https://t.me/chautruongthinh",
       "maintainer_img_url" : "https://i.imgur.com/lSBaeGc.jpg", 
       "changelog_system" : "Android 9.0 Release",
       "changelog_misc" : "",
-      "changelog_device" : "",
+      "changelog_device" : "Update new light driver",
       "changelog_settings" : "",
-      "changelog_securitypatch" : "June 05 2019"
+      "changelog_securitypatch" : "August 05 2019"
     }
   ]
 }
